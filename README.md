@@ -11,4 +11,4 @@ This is a handy solution to a common Xcode error that happens when you run your 
 5. Go to `Contents/Developer/Platforms/<platform-of-your-choice>.platform/DeviceSupport`.
 6. Extract downloaded `.zip` here.
 7. Restart Xcode.
-8. Done!.
+8. Done!
