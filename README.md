@@ -1,2 +1,4 @@
 # xcode-device-support-files
-Xcode device support files (Xcode/Contents/Developer/Platforms)
+
+## - What is this?
+This is a handy solution to a common Xcode error that happens when you run your project on a newer/older device/opearating system.
